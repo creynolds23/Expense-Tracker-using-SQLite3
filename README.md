@@ -14,7 +14,7 @@ Table Structure for Expenses:
 * 'description' (TEXT): A brief description of the expense
 * 'date' (TEXT): Timestamp indicating when the expense was recorded
 
-<br>
+
 Table Structure for Income:
 * 'id' (INTEGER): Primary key for expense entries
 * 'amount' (REAL): The amount of the expense
