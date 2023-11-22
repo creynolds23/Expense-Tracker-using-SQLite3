@@ -29,9 +29,9 @@ The software was designed using the following tools and technologies:
 * Libraries - datetime & SQLite3
 
 # Useful Websites
-[Python SQLite Tutorial by Corey Schafer](https://www.youtube.com/watch?v=pd-0G0MigUA)
-[SQLite Documentation](https://www.sqlite.org/docs.html)
-[SQL Tutorials by W3Schools](https://www.w3schools.com/sql/)
+1. [Python SQLite Tutorial by Corey Schafer](https://www.youtube.com/watch?v=pd-0G0MigUA)
+2. [SQLite Documentation](https://www.sqlite.org/docs.html)
+3. [SQL Tutorials by W3Schools](https://www.w3schools.com/sql/)
 
 # Future Work
 1. Implement user authentication to secure financial data
