@@ -35,5 +35,5 @@ The software was designed using the following tools and technologies:
 
 # Future Work
 1. Implement user authentication to secure financial data
-2. Add the ability to edit and delete individual expenes and/or income entries
-3. Create an option to dispaly financial data with graphs
+2. Add the ability to edit and delete individual expenses and/or income entries
+3. Create an option to display financial data with graphs
