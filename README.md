@@ -3,7 +3,7 @@ I developed a financial tracker software to further enhance my skills in program
 
 The purpose of creating this program is to gain hands-on experience in building applications that interact with databases. It serves as a practical exercixe to reinforce my understanding of SQL databases and their integration with software applications.
 
-[Expense Tracker Demo Video]()
+[Expense Tracker Demo Video](https://youtu.be/rY-4JB4SedA)
 
 # Relational Database
 The financial tracker utilizes a SQLite relational database to store information about expenses and income. The database consists of two tables which are expenses and income.
